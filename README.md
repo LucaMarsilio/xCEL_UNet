@@ -1,4 +1,4 @@
-# xCEL_UNEt
+# xCEL_UNet
 
 This repository shares the code of the ensemble CNN developed for the article **"Context-aware dual-task deep network for concurrent
 bone segmentation and clinical assessment to enhance shoulder arthroplasty preoperative planning."**
@@ -14,6 +14,8 @@ The repository is organized into two main folders:
 
 # xCEL-UNet
 
+The XCEL-UNet model is a multi-task deep network computing the proximal humerus and scapula segmentation, concurrently with the staging of three different clinical conditions affecting the glenohumeral joint, namely the osteophyte size (OS), the GH joint space (JS), and the humeroscapular alignment (HSA). A GradCAM-based explainability module is incorporated to produce visual interpretation of the clinical
+prediction.
 
 ![xCEL-UNet architecture](images/xCEL_UNET_framework.png)
 
