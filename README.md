@@ -15,7 +15,7 @@ The repository is organized into two main folders:
 # xCEL-UNet
 
 
-![xCEL-UNet architecture](images/xCEL_UNET_framework.pdf)
+![xCEL-UNet architecture](images/xCEL_UNET_framework.png)
 
 ## Repository Structure
 
